@@ -44,3 +44,7 @@ These changes are being added via master feature
 >     |
 
 Here is feature 3
+
+These changes are being added from feature2
+
+These are also feature 2 changes
