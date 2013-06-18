@@ -42,3 +42,5 @@ These changes are being added via master feature
 >     |
 >     |
 >     |
+
+Here is feature 3
