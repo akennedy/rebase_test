@@ -8,3 +8,5 @@ Here are some additional changes.
 
 
 These changes are being applied at master
+
+These changes are being added via master feature
