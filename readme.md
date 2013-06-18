@@ -1,5 +1,5 @@
 # Hello World
 
-## Rebase Tes
+## The Rebase Tes
 
 We will be testing a rebase workflow here.
