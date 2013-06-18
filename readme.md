@@ -39,3 +39,5 @@ These changes are being applied at master
 >     |
 >     |
 >     |
+
+These changes are being added from feature2
